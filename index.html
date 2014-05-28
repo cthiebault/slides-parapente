@@ -4,11 +4,12 @@
 <head>
   <meta charset="utf-8">
   <title>Le Parapente</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link href='http://fonts.googleapis.com/css?family=Fauna+One|Fjalla+One' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
-  <link rel="stylesheet" href="bower_components/reveal.js/css/theme/default.css" id="theme">
+  <link rel="stylesheet" href="css/solarized_dark.css" id="theme">
   <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -19,31 +20,25 @@
   <div class="slides">
 
     <section>
-      <h2>Le Parapente</h2>
+      <h1>Voler en parapente!</h1>
     </section>
 
     <section>
       <h2>Histoire</h2>
-      <img src="img/parachute-Leonardo-da-Vinci.jpg" style="width: 500px">
+      <img src="img/parachute-Leonardo-da-Vinci.jpg" style="width: 500px"/>
     </section>
 
     <section>
-      <div class="row">
-        <div class="col-md-6">
-          <img src="img/barish-sailwing.jpg" style="width: 500px">
-        </div>
-        <div class="col-md-6">
-          <h2>
-            Parachutisme<br/>
-            +<br/>
-            Montagne<br/>
-            +<br/>
-            Vol libre<br/>
-            =<br/>
-            Paraplane
-          </h2>
-        </div>
-      </div>
+      <table class="col-2">
+        <tr>
+          <td><img src="img/barish-sailwing.jpg" style="width: 500px"/></td>
+          <td>
+            <h3>Parachutisme<br/>+<br/>Montagne<br/>+<br/>Vol libre<br/>=</h3>
+
+            <h2>Paraplane</h2>
+          </td>
+        </tr>
+      </table>
     </section>
 
   </div>
@@ -54,6 +49,7 @@
 <script src="bower_components/reveal.js/js/reveal.min.js"></script>
 <script>
   Reveal.initialize({
+    history: true,
     transition: 'linear'
   });
 </script>
