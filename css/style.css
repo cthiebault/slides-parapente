@@ -18,3 +18,14 @@ img.w500 {
 img.w300 {
   width: 300px;
 }
+
+img.w700 {
+  width: 700px;
+}
+
+h2.with-img-bkg {
+  background-color: #042029;
+  padding: 50px 100px;
+  display: inline-block;
+}
+
