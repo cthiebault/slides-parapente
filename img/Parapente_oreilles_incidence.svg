@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="1073.79"
+   height="434.26999"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3693"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3702"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path3696"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-7.9792971,-187.88716)"
+     id="layer1">
+    <path
+       d="M 157.74797,469.84447 C 199.45946,421.33388 411.51814,426.086 513.02621,428.45132 C 409.49668,440.45669 116.98389,517.25323 157.74797,469.84447 z"
+       id="path2383"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63914192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 20.374657,550.95136 L 451.17637,396.92168"
+       id="path2385"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31766999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);stroke-miterlimit:5.0999999;stroke-dasharray:2.54135985, 0.63533996, 0.31766998, 0.63533996;stroke-dashoffset:3.08139874;stroke-opacity:1" />
+    <path
+       d="M 41.232838,494.79471 L 577.12772,418.58211"
+       id="path3157"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39708748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.0999999;stroke-dasharray:3.17669982, 0.79417496, 0.39708747, 0.79417496;stroke-dashoffset:3.85174849;stroke-opacity:1" />
+    <path
+       d="M 72.520115,490.78351 C 64.096616,513.24617 76.130185,530.49428 76.130185,530.49428"
+       id="path3159"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ee;stroke-width:2.22368979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 265.05719,463.50743 L 265.05719,266.15691"
+       id="path3161"
+       style="fill:none;fill-rule:evenodd;stroke:#000034;stroke-width:1.1118449;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 265.45832,462.90575 L 209.10111,287.61678"
+       id="path4450"
+       style="fill:none;fill-rule:evenodd;stroke:#005710;stroke-width:1.1118449;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 265.45832,462.90575 L 326.62895,441.24532"
+       id="path4452"
+       style="fill:none;fill-rule:evenodd;stroke:#820001;stroke-width:1.19126248;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       x="57.728733"
+       y="519.05347"
+       id="text4454"
+       xml:space="preserve"
+       style="font-size:16.43303299px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#003de9;stroke-width:0.41082585px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="57.728733"
+         y="519.05347"
+         id="tspan4456"
+         style="stroke-width:0.41082585">i</tspan></text>
+    <text
+       x="331.24402"
+       y="446.21057"
+       id="text4458"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7d0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="331.24402"
+         y="446.21057"
+         id="tspan4460">trainee</tspan></text>
+    <text
+       x="174.67812"
+       y="278.86658"
+       id="text4462"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="174.67812"
+         y="278.86658"
+         id="tspan4464">portance</tspan></text>
+    <text
+       x="247.29134"
+       y="263.48541"
+       id="text4466"
+       xml:space="preserve"
+       style="font-size:20.87302399px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="247.29134"
+         y="263.48541"
+         id="tspan4468">RFA</tspan></text>
+    <text
+       x="195.24777"
+       y="208.94589"
+       id="text4470"
+       xml:space="preserve"
+       style="font-size:19.82023811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="195.24777"
+         y="208.94589"
+         id="tspan4472">Sans les oreilles</tspan></text>
+    <path
+       d="M 642.1947,469.84447 C 683.90619,421.33388 895.96486,426.086 997.47295,428.45132 C 893.9434,440.45669 601.43061,517.25323 642.1947,469.84447 z"
+       id="path4474"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63914192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 545.7355,607.91025 L 903.53356,353.60083"
+       id="path4476"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31766999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);marker-end:none;stroke-miterlimit:5.0999999;stroke-dasharray:2.54135985, 0.63533996, 0.31766998, 0.63533996;stroke-dashoffset:3.0813986;stroke-opacity:1" />
+    <path
+       d="M 525.67956,494.79471 L 1061.5745,418.58211"
+       id="path4478"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39708748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.0999999;stroke-dasharray:3.17669982, 0.79417496, 0.39708747, 0.79417496;stroke-dashoffset:3.85174849;stroke-opacity:1" />
+    <path
+       d="M 556.96683,490.78351 C 546.93886,539.72001 588.65523,575.41961 588.65523,575.41961"
+       id="path4480"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ee;stroke-width:2.22368979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 749.50392,463.50743 L 749.50392,266.15691"
+       id="path4482"
+       style="fill:none;fill-rule:evenodd;stroke:#000034;stroke-width:1.1118449;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 748.30056,462.10351 L 659.85384,332.5421"
+       id="path4484"
+       style="fill:none;fill-rule:evenodd;stroke:#005710;stroke-width:1.1118449;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 750.00879,462.802 L 839.73294,399.69048"
+       id="path4486"
+       style="fill:none;fill-rule:evenodd;stroke:#820001;stroke-width:1.39876056;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       x="545.35217"
+       y="546.05548"
+       id="text4488"
+       xml:space="preserve"
+       style="font-size:16.43303299px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#003de9;stroke-width:0.41082585px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="545.35217"
+         y="546.05548"
+         id="tspan4490"
+         style="stroke-width:0.41082585">i</tspan></text>
+    <text
+       x="815.69073"
+       y="398.56009"
+       id="text4492"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7d0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="815.69073"
+         y="398.56009"
+         id="tspan4494">trainee</tspan></text>
+    <text
+       x="622.22186"
+       y="324.59412"
+       id="text4496"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="622.22186"
+         y="324.59412"
+         id="tspan4498">portance</tspan></text>
+    <text
+       x="731.73804"
+       y="263.48541"
+       id="text4500"
+       xml:space="preserve"
+       style="font-size:20.87302399px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="731.73804"
+         y="263.48541"
+         id="tspan4502">RFA</tspan></text>
+    <text
+       x="670.06769"
+       y="214.69057"
+       id="text4504"
+       xml:space="preserve"
+       style="font-size:19.82023811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="670.06769"
+         y="214.69057"
+         id="tspan4506">Avec les oreilles</tspan></text>
+    <text
+       x="565.69073"
+       y="604.27435"
+       id="text6628"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="565.69073"
+         y="604.27435"
+         id="tspan6630">trajectoire</tspan></text>
+    <text
+       x="29.976448"
+       y="559.98865"
+       id="text6632"
+       xml:space="preserve"
+       style="font-size:13.18658829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="29.976448"
+         y="559.98865"
+         id="tspan6634">trajectoire</tspan></text>
+  </g>
+</svg>
