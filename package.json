@@ -1,0 +1,10 @@
+{
+  "name": "parapente-slides",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cthiebault/slides-parapente.git"
+  },
+  "author": "Cedric Thiebault"
+}
