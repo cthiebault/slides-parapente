@@ -1,13 +1,20 @@
-/*body {*/
-/*background-image: url('../img/low_contrast_linen.png');*/
-/*}*/
-
 section table {
   width: 100%;
 }
 
+section table td {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
 section table.col-2 td {
   width: 50%;
-  text-align: center;
-  vertical-align: middle;
+}
+
+img.w500 {
+  width: 500px;
+}
+
+img.w300 {
+  width: 300px;
 }
