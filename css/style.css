@@ -29,3 +29,7 @@ h2.with-img-bkg {
   display: inline-block;
 }
 
+h1.bye {
+  color: #ffffff;
+  padding-left: 500px;
+}
