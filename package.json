@@ -1,13 +1,10 @@
 {
-  "name": "parapente-slides",
+  "name": "slides-parapente",
   "version": "0.1.0",
   "description": "",
   "repository": {
     "type": "git",
     "url": "git@github.com:cthiebault/slides-parapente.git"
   },
-  "author": "Cedric Thiebault",
-  "dependencies": {
-    "reveal.js": "^2.6.2"
-  }
+  "author": "Cedric Thiebault <cedric.thiebault@gmail.com>"
 }
