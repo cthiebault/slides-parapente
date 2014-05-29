@@ -2,7 +2,11 @@ section table {
   width: 100%;
 }
 
-section table td {
+section table.center td {
+  text-align: center !important;
+}
+
+section table.center-middle td {
   text-align: center !important;
   vertical-align: middle !important;
 }
@@ -15,6 +19,9 @@ img.w500 {
   width: 500px;
 }
 
+img.w450 {
+  width: 450px;
+}
 img.w300 {
   width: 300px;
 }
