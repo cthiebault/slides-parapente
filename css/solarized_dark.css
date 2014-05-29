@@ -38,8 +38,8 @@ body {
   margin: 0 0 20px 0;
   color: #CC4B16;
   font-family: "Fjalla One", Impact, sans-serif;
-  line-height: 0.9em;
-  letter-spacing: -.04em;
+  line-height: 1em;
+  letter-spacing: -.03em;
   text-shadow: none; }
 
 .reveal h1 {
