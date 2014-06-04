@@ -22,12 +22,20 @@ img.w500 {
 img.w450 {
   width: 450px;
 }
+
 img.w300 {
   width: 300px;
 }
 
 img.w700 {
   width: 700px;
+}
+
+h1.intro {
+  background-color: #042029;
+  margin-left: -700px;
+  display: inline-block;
+  padding: 40px;
 }
 
 h2.with-img-bkg {
